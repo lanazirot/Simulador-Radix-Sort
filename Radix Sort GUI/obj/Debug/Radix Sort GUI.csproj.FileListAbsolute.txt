@@ -1,0 +1,15 @@
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\Radix Sort GUI.exe.config
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\Radix Sort GUI.exe
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\Radix Sort GUI.pdb
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix_Sort_GUI.Properties.Resources.resources
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.csproj.GenerateResource.cache
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.csproj.CoreCompileInputs.cache
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.exe
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.pdb
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\DS.dll
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\Sorter.dll
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\DS.pdb
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\bin\Debug\Sorter.pdb
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.csproj.CopyComplete
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix_Sort_GUI.FormPrincipal.resources
+C:\Users\alanc\source\repos\Radix Sort GUI\Radix Sort GUI\obj\Debug\Radix Sort GUI.csprojAssemblyReference.cache
